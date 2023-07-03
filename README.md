@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Litzy-Nevarez
 - 👀 I’m interested in software programming and data bases.
-- 🌱 I’m studying computer systems engineer and I'm in the specialty of digital management in organizations. If you need help with programs I'm here for help you.
+- 🌱 I am a Computer Systems Engineer. If you need help with programs I'm here for help you.
 - 📫 How to reach me yulissa.litzy@gmail.com
 
 <!---
