@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming and data bases.
 - 🌱 I am a Computer Systems Engineer. If you need help with programs I'm here for help you.
 - 📫 How to reach me yulissa.litzy@gmail.com
-- My web: https://main--chimerical-zabaione-2d423c.netlify.app/
+- My web: https://litzynevarezcv.netlify.app/
 
 <!---
 Litzy-Nevarez/Litzy-Nevarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
