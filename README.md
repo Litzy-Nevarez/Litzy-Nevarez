@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Litzy-Nevarez
+![giphy](https://github.com/Litzy-Nevarez/Litzy-Nevarez/assets/105952157/6c08443a-6abc-489e-a6da-55be4a824996)
 
 - 👀 I’m interested in software programming and data bases.
 - 🌱 I am a Computer Systems Engineer. If you need help with programs I'm here for help you.
