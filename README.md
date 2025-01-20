@@ -7,6 +7,8 @@
 - 📫 How to reach me yulissa.litzy@gmail.com
 - My web: https://litzynevarezcv.netlify.app/
 
+![Litzy-Nevarez's Stats](https://github-readme-stats.vercel.app/api?username=Litzy-Nevarez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
 <!---
 Litzy-Nevarez/Litzy-Nevarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
