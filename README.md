@@ -5,7 +5,6 @@
 - 👀 I’m interested in software programming and data bases.
 - 🌱 I am a Computer Systems Engineer. If you need help with programs I'm here for help you.
 - 📫 How to reach me yulissa.litzy@gmail.com
-- My web: https://litzynevarezcv.netlify.app/
 
 ![Litzy-Nevarez's Stats](https://github-readme-stats.vercel.app/api?username=Litzy-Nevarez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
